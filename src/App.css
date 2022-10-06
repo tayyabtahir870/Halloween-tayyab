@@ -1,0 +1,102 @@
+.folki{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.font1{
+  font-size: 3rem;
+  color: white;
+}
+
+.folki1{
+  background-color: #000000;
+}
+
+.font2{
+  color: white  ;
+  font-size: 1rem;
+}
+
+.logo1{
+  background-color: white;
+}
+
+.navfontcolor{
+  color: black;
+}
+.navcolor1{
+  color: black;
+  border-radius: 15px;
+}
+
+.tokenomics{
+
+  background-image: url("Media/bg-banner.png");
+  background-color: #745F98;
+  
+  
+}
+
+.font3{
+  color: white;
+  font-size: 18px;
+}
+
+.font4{
+  color: white;
+
+}
+
+.color{
+  background-color: transparent;
+  padding: 5px;
+    
+}
+.color:hover{
+  background-color: #bf674c;
+  border-radius: 10px;
+}
+
+.fontcard{
+  color: white;
+
+}
+
+.fontcard1{
+  color: white;
+  font-size: 1rem;
+
+}
+
+.documentcolor{
+  background-color: #745F98;
+ 
+}
+
+.pagecolor{
+  background-color: #000000;
+
+  border-radius: 25px;
+}
+
+.downloadbtn{
+  background-color: #F27022;
+  color: white;
+  border-radius: 50px ;
+  font-size: 25px;
+}
+
+.faqs{
+  background-color: #000000;
+}
+
+.footericons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.faq1{
+  background-color: #000000;
+}

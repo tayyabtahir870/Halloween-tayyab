@@ -3,8 +3,8 @@ import React from "react";
 function Header() {
   return (
     <div>
-      <div className="header">
-        <nav class="navbar navbar-expand-lg ">
+      <div className="header ">
+        <nav class="navbar navbar-expand-lg bg-transparent fixed-top">
           <div class="container">
             <a class="navbar-brand" href="/">
               <img

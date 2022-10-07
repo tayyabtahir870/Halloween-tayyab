@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&family=Roboto:wght@300;400;500;700&display=swap');
+
+
 .folki{
   display: flex;
   justify-content: center;
@@ -28,6 +31,7 @@
 .navcolor1{
   color: black;
   border-radius: 15px;
+  background-color: transparent;
 }
 
 .tokenomics{
@@ -62,6 +66,7 @@
   color: white;
 
 }
+
 
 .fontcard1{
   color: white;
@@ -99,4 +104,44 @@
 
 .faq1{
   background-color: #000000;
+}
+
+.roadmap{
+  background-image: url("Media/bg4.png");
+  background-color: #000000;
+  background-repeat: no-repeat;
+}
+.hero-section{
+  background-image: url("https://halloweenfloki.co/wp-content/uploads/2022/08/AdobeStock_439674303-scaled.jpeg");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.fontstyle{
+  font-family: Nosifer ;
+  color: white;
+  font-size: 6vw !important;
+
+}
+
+.roadmapcenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.downloadbtn1{
+  background-color: #745F98;
+  color: white;
+  border-radius: 50px ;
+  font-size: 25px;
+  padding: 8px 20px;
+  border: none !important;
+}
+
+.btn1{
+  background-color: #745F98;
 }
